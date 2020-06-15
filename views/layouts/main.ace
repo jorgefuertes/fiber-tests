@@ -1,0 +1,9 @@
+= doctype html
+html lang=es
+	head
+		meta charset=utf-8
+		title Test
+	body.bg
+		h1 Main Layout
+		main
+			{{embed}}
